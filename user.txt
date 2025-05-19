@@ -1,0 +1,5 @@
+profile username
+password
+profile pic
+
+...and good detail of the user info
